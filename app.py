@@ -14,7 +14,7 @@ st.set_page_config(
 
 st.title("⚛️ Quantum Phased Information Recovery (QPIR) Simulator")
 st.markdown("""
-**Author:** Viren | *Independent Researcher (Vikalp Public School, Rohtak, India)*  
+**Author:** Viren | *Independent Researcher*  
 **Preprint Reference:** CERN Zenodo DOI Matrix Registry Framework  
 *This simulator models the asymptotic suppression of random thermal phase noise in macroscopic $^{87}\text{Rb}$ vapor cells using symmetric Periodic Dynamical Decoupling (PDD) $\pi$-pulse arrays.*
 """)
